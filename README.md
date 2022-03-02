@@ -1,5 +1,5 @@
 # wordle-trend-guesser
-Guess the wordle word based on google trends (credit to Owen Busler and Hasith Bomma for the idea)
+Guess the <a href="https://www.nytimes.com/games/wordle/index.html">wordle</a> word based on google trends (credit to Owen Busler and Hasith Bomma for the idea)
 
 ### Requirements:
 python3 \
